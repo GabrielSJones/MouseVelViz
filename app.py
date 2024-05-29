@@ -3,9 +3,6 @@ import time
 import math
 from lib.rawinputreader import rawinputreader
 from config import WIDTH, HEIGHT, GRACE_FACTOR, CALCULATION_DELTA
-import json
-import pprint
-
 RAW_INPUT = rawinputreader()
 
 
